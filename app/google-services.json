@@ -1,0 +1,135 @@
+{
+  "project_info": {
+    "project_number": "337470555852",
+    "firebase_url": "https://cu-fos-default-rtdb.firebaseio.com",
+    "project_id": "cu-fos",
+    "storage_bucket": "cu-fos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337470555852:android:5af5980076f99287d32469",
+        "android_client_info": {
+          "package_name": "com.cufos.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337470555852-hdqb9i4ita2sa58o13d4mna0lggccf7j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cufos.app",
+            "certificate_hash": "929a6762dc9790fdb6f3ce2e8289b1e19c41431b"
+          }
+        },
+        {
+          "client_id": "337470555852-7svdrjd5j1ilfgo3d4v77v6vmoc3nk08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJS_-lxTNFZdcUcrvq12DPzFVDsERh-rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337470555852-7svdrjd5j1ilfgo3d4v77v6vmoc3nk08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337470555852:android:c424be935e9b2333d32469",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337470555852-7svdrjd5j1ilfgo3d4v77v6vmoc3nk08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJS_-lxTNFZdcUcrvq12DPzFVDsERh-rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337470555852-7svdrjd5j1ilfgo3d4v77v6vmoc3nk08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337470555852:android:13ef6685d9c053c1d32469",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337470555852-7svdrjd5j1ilfgo3d4v77v6vmoc3nk08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJS_-lxTNFZdcUcrvq12DPzFVDsERh-rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337470555852-7svdrjd5j1ilfgo3d4v77v6vmoc3nk08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337470555852:android:c19b187eef3e89f1d32469",
+        "android_client_info": {
+          "package_name": "my.cufos.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "337470555852-7svdrjd5j1ilfgo3d4v77v6vmoc3nk08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJS_-lxTNFZdcUcrvq12DPzFVDsERh-rs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "337470555852-7svdrjd5j1ilfgo3d4v77v6vmoc3nk08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
